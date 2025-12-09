@@ -53,6 +53,8 @@ A baseline Linear Regression model and a Ridge Regression model were trained, bu
 
 The high and closely matched training and testing scores indicate that the SVR model generalizes well and shows no significant signs of overfitting.
 
+
+
 ## Setup and Installation
 
 To run the Jupyter notebook (`Analysis and Model Building.ipynb`), you will need the following libraries:
@@ -60,12 +62,14 @@ To run the Jupyter notebook (`Analysis and Model Building.ipynb`), you will need
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
+```
+
+
 
 ## Project Structure
 
 
 ├── Analysis and Model Building.ipynb # Main analysis and modeling notebook
-
 ├── Life Expectancy Data.csv          # The dataset used for the project
-
 └── README.md
+
