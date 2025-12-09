@@ -70,6 +70,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 
 ├── Analysis and Model Building.ipynb # Main analysis and modeling notebook
+
 ├── Life Expectancy Data.csv          # The dataset used for the project
+
 └── README.md
 
